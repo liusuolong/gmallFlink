@@ -11,6 +11,7 @@
     <modules>
         <module>gmallUserBehavior</module>
         <module>gmallUserBehavior</module>
+        <module>gmallApacheLog</module>
     </modules>
 
 
